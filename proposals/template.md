@@ -16,7 +16,7 @@ Add any additional details to the project. As an example:
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
 ### Team / Contributor
-Brief descrption of the team. As an example: link to social profiles, github for other team members (if any), relevant experience
+Brief descrption of the team and best way to get in contact. As an example: link to social profiles, github for other team members (if any), relevant experience,...
 
 ## Development Status
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description here
