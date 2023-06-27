@@ -1,5 +1,5 @@
 # Rysk Grant Proposals
-![logo-animated](https://github.com/rysk-finance/Rysk-Grant-Proposals/assets/8145692/d6e499ca-6730-4039-967f-c9d62a381f7b)
+![logo-animated](https://github.com/rysk-finance/Rysk-Grant-Proposals/assets/8145692/a72e58e2-5236-41d7-96b4-af94e66de2aa)
 
 At rysk, the core principle is collaboration over competition. As part of this commitment anyone is welcome to apply for a grant.
 
