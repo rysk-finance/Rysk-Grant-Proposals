@@ -6,7 +6,7 @@ At rysk, the core principle is collaboration over competition. As part of this c
 ## Process
 ### 1. Application
 1. Fork this repository
-2. In the new fork, create a copy of the proposal template [proposals/template.md](https://github.com/rysk-finance/Rysk-Grant-Proposals/tree/main/proposals)
+2. In the new fork, create a copy of the proposal template [proposals/template.md](https://github.com/rysk-finance/Rysk-Grant-Proposals/tree/main/proposals/template.md)
 3. Name the new copied file after your project `project_name.md`
 4. Fill out the template with the details of your project
 5. Create a pull request in the [Rysk Grant Proposal Repo](https://github.com/rysk-finance/Rysk-Grant-Proposals/tree/main) main branch
