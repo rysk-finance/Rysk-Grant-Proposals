@@ -11,7 +11,7 @@ We are open to ideas and proposals as long as the main goal is to increase Rysk 
 There are, however, some projects that we’re very interested in seeing. Below are some of the project ideas:
 - Build strategies to use options to hedge
 - Build automated options strategies or structured products that trade with Rysk. 
-- Build a trading bot that enables anyone to trade options with a simplified UX
+- Build a trading bot that enables anyone to trade options with a simplified UX (e.g. Telegram bot)
 - Build app to trade with Rysk protocol that gamify options trading
 
 ## Process
