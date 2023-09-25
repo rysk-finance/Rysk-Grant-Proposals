@@ -3,6 +3,17 @@
 
 At rysk, the core principle is collaboration over competition. As part of this commitment anyone is welcome to apply for a grant.
 
+At this stage grants will be awarded to projects that are focused on increasing Rysk trading volumes. A committee composed by the Rysk's core team will be in charge to approve or reject Grant proposals.
+
+## Ideas
+We are open to ideas and proposals as long as the main goal is to increase Rysk trading volumes. We like to be surprised so feel free to propose your idea! 
+
+There are, however, some projects that we’re very interested in seeing. Below are some of the project ideas:
+- Build strategies to use options to hedge
+- Build automated options strategies or structured products that trade with Rysk. 
+- Build a trading bot that enables anyone to trade options with a simplified UX
+- Build app to trade with Rysk protocol that gamify options trading
+
 ## Process
 ### 1. Application
 1. Fork this repository
